@@ -1,0 +1,19 @@
+{
+  "name": "sass-experiments",
+  "version": "1.0.0",
+  "description": "A collection of SASS files to learn from scrach",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aswathyeg/sass-experiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aswathyeg/sass-experiments/issues"
+  },
+  "homepage": "https://github.com/aswathyeg/sass-experiments#readme"
+}
