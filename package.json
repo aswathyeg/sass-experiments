@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/aswathyeg/sass-experiments/issues"
   },
-  "homepage": "https://github.com/aswathyeg/sass-experiments#readme"
+  "homepage": "https://github.com/aswathyeg/sass-experiments#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.58.3"
+  }
 }
