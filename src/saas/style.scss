@@ -1,18 +1,16 @@
 @use "sass:math";
 $myFont:Helvetica, sans-serif;
 $myColor:blue;
-
-.style{
-    color: $myColor;
-    font:$myFont;
-}
-
 @function mywidth($pxvalue){
     @return math.div($pxValue, 16px)
 
 }
-div{
-    font-size:mywidth(1000px)
+.style{
+    color: $myColor;
+    font:$myFont;
+    font-size:mywidth(10000px)
 }
-    
+
+
+ 
 
