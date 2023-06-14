@@ -8,7 +8,11 @@ $myColor:blue;
 .style{
     color: $myColor;
     font:$myFont;
-    font-size:mywidth(1000px);
+   
+div{
+    font-weight:mywidth(1000px);
+}
+
 }
 
 
