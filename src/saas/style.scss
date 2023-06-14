@@ -1,3 +1,20 @@
-.style{
-    color: aqua;
+@use "sass:math";
+$myFont:Helvetica, sans-serif;
+$myColor:blue;
+@function mywidth($pxvalue){
+    @return math.div($pxValue, 16px)
+
 }
+.style{
+    color: $myColor;
+    font:$myFont;
+   
+div{
+    font-weight:mywidth(1000px);
+}
+
+}
+
+
+ 
+

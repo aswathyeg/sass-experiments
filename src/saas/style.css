@@ -1,3 +1,5 @@
 .style {
-  color: aqua;
+  color: blue;
+  font: Helvetica, sans-serif;
+  font-size: mywidth(1000px);
 }/*# sourceMappingURL=style.css.map */
